@@ -165,15 +165,16 @@ CMOS NOR GATE:
 
 NOR SCHEMATIC:
 
-330381062-13aa23eb-47f4-4879-acc6-d8b8e0240cfc
 
 NOR TEST CELL VIEW:
 
-330381089-8989c1dc-d30a-49d9-b92f-26249f0a7451
+![last 1](https://github.com/nithiyashree2533/VLSI-LAB-EXP-6/assets/161813688/9453a4b0-abfa-4367-b8ff-fef5ced63234)
+
 
 NOR SIMULATION WITH SPECTRA:
+![last output](https://github.com/nithiyashree2533/VLSI-LAB-EXP-6/assets/161813688/08f2423d-4d81-4a29-bf43-5f0f217a6658)
 
-330381132-bdf535bd-2c8e-41e8-8cdb-7f2fe17e22dc
+
 
 RESULT:
 
