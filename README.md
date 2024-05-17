@@ -119,7 +119,8 @@ CMOS INVERTER:
 
 CMOS INVERTER SCHEMATIC:
 
-330380552-d0f02630-9717-48b0-9304-7d17065b68e8
+![ex10](https://github.com/nithiyashree2533/VLSI-LAB-EXP-6/assets/161813688/58717cc6-e642-438e-9c05-b0e5e2008157)
+
 
 SPECIFICATIONS
 
@@ -135,34 +136,41 @@ Component to be selected in schematic is for d.c analysis Start = -1 Stop = 1 re
 
 CMOS INVERTER TEST CELL VIEW:
 
-330380660-c0051703-49e7-4500-a3eb-c4c97dd06556
+
 
 CMOS INVERTER SIMULATION WITH SPECTRA:
 
 TRANSIENT RESPONSE:
 
-330380713-f225fe71-8103-4302-9a0f-18fd9025adcd
+![ex9](https://github.com/nithiyashree2533/VLSI-LAB-EXP-6/assets/161813688/c39c25f5-a3cb-471f-b811-73a16aa9b467)
+
+
 
 DC RESPONSE:
 
-330380799-8344e704-c6c7-4b31-960a-a7ddb540a24a
+![ex8](https://github.com/nithiyashree2533/VLSI-LAB-EXP-6/assets/161813688/3c3324a3-e629-4ccf-81fe-803485349f28)
+
 
 CMOS NAND GATE:
 
 NAND SCHEMATIC:
 
-330380901-01f8be1e-3fc8-4c50-b831-847484cae7c5
+![ex7](https://github.com/nithiyashree2533/VLSI-LAB-EXP-6/assets/161813688/a51544e2-efaf-4c72-9448-d6820ffc2f56)
+
 
 NAND TEST CELL VIEW:
 
-330380970-5ab06930-975d-4a8a-94b1-72754300f72d
+![ex6](https://github.com/nithiyashree2533/VLSI-LAB-EXP-6/assets/161813688/973e1c66-edca-4405-ac2b-90ce5d2e76f0)
+
 
 NAND SIMULATION WITH SPECTRA:
 
-330381022-9a392d71-2442-4cea-a3ca-e70d5d68f685
+![ex5](https://github.com/nithiyashree2533/VLSI-LAB-EXP-6/assets/161813688/2ba5612a-244b-40e7-925a-bd06c08caaaa)
+
 
 CMOS NOR GATE:
 
+![ex4](https://github.com/nithiyashree2533/VLSI-LAB-EXP-6/assets/161813688/50b24c85-1d1b-4539-9fc1-ef34b91e872c)
 
 
 NOR SCHEMATIC:
