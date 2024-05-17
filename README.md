@@ -184,6 +184,9 @@ NOR TEST CELL VIEW:
 
 
 NOR SIMULATION WITH SPECTRA:
+
+
+
 ![last output](https://github.com/nithiyashree2533/VLSI-LAB-EXP-6/assets/161813688/08f2423d-4d81-4a29-bf43-5f0f217a6658)
 
 
