@@ -144,35 +144,37 @@ CMOS INVERTER SIMULATION WITH SPECTRA:
 
 TRANSIENT RESPONSE:
 
-![ex9](https://github.com/nithiyashree2533/VLSI-LAB-EXP-6/assets/161813688/c39c25f5-a3cb-471f-b811-73a16aa9b467)
+![ex8](https://github.com/nithiyashree2533/VLSI-LAB-EXP-6/assets/161813688/3c3324a3-e629-4ccf-81fe-803485349f28)
+
 
 
 
 DC RESPONSE:
 
-![ex8](https://github.com/nithiyashree2533/VLSI-LAB-EXP-6/assets/161813688/3c3324a3-e629-4ccf-81fe-803485349f28)
+![ex7](https://github.com/nithiyashree2533/VLSI-LAB-EXP-6/assets/161813688/a51544e2-efaf-4c72-9448-d6820ffc2f56)
 
 
 CMOS NAND GATE:
 
 NAND SCHEMATIC:
 
-![ex7](https://github.com/nithiyashree2533/VLSI-LAB-EXP-6/assets/161813688/a51544e2-efaf-4c72-9448-d6820ffc2f56)
+![ex6](https://github.com/nithiyashree2533/VLSI-LAB-EXP-6/assets/161813688/973e1c66-edca-4405-ac2b-90ce5d2e76f0)
 
 
 NAND TEST CELL VIEW:
 
-![ex6](https://github.com/nithiyashree2533/VLSI-LAB-EXP-6/assets/161813688/973e1c66-edca-4405-ac2b-90ce5d2e76f0)
+![ex5](https://github.com/nithiyashree2533/VLSI-LAB-EXP-6/assets/161813688/2ba5612a-244b-40e7-925a-bd06c08caaaa)
+
 
 
 NAND SIMULATION WITH SPECTRA:
 
-![ex5](https://github.com/nithiyashree2533/VLSI-LAB-EXP-6/assets/161813688/2ba5612a-244b-40e7-925a-bd06c08caaaa)
-
 
 CMOS NOR GATE:
 
-![ex4](https://github.com/nithiyashree2533/VLSI-LAB-EXP-6/assets/161813688/50b24c85-1d1b-4539-9fc1-ef34b91e872c)
+
+![ex4](https://github.com/nithiyashree2533/VLSI-LAB-EXP-6/assets/161813688/461540bc-c2f2-4410-924e-da4cde651708)
+
 
 
 NOR SCHEMATIC:
