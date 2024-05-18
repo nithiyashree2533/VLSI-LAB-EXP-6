@@ -136,6 +136,8 @@ Component to be selected in schematic is for d.c analysis Start = -1 Stop = 1 re
 
 CMOS INVERTER TEST CELL VIEW:
 
+![ex9](https://github.com/nithiyashree2533/VLSI-LAB-EXP-6/assets/161813688/c39c25f5-a3cb-471f-b811-73a16aa9b467)
+
 
 
 CMOS INVERTER SIMULATION WITH SPECTRA:
